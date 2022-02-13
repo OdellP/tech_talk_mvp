@@ -224,6 +224,9 @@ GEM
     semantic_range (3.0.0)
     shoulda-matchers (5.1.0)
       activesupport (>= 5.2.0)
+    simple_form (5.1.0)
+      actionpack (>= 5.2)
+      activemodel (>= 5.2)
     spring (4.0.0)
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)
@@ -280,6 +283,7 @@ DEPENDENCIES
   rubocop
   sass-rails (>= 6)
   shoulda-matchers (~> 5.0)
+  simple_form (~> 5.1)
   spring
   sprockets-rails
   turbolinks (~> 5)
