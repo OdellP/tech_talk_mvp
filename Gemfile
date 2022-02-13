@@ -32,6 +32,7 @@ gem 'devise', '~> 4.8', '>= 4.8.1'
 gem 'factory_bot'
 gem 'jquery-rails'
 gem 'sprockets-rails', require: 'sprockets/railtie'
+gem 'simple_form', '~> 5.1'
 gem 'rubocop', require: false
 gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
 
