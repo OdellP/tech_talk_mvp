@@ -18,3 +18,7 @@
 .form-control {
   border: none;
 }
+
+#user_first_name, #user_last_name, #user_username, #user_email, #user_password, #user_password_confirmation {
+  border: 1px solid;
+}
