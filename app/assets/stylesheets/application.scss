@@ -26,6 +26,7 @@ body {
 .clipped {
   clip-path: polygon(50% 0, 100% 0, 100% 100%, 0% 100%);
 }
+
 @media screen and (max-width: 650px){
   .headline {
     left: 20px;
@@ -46,4 +47,10 @@ body {
 
 #user_first_name, #user_last_name, #user_username, #user_email, #user_password, #user_password_confirmation {
   border: 1px solid;
+}
+
+#sign_up_button {
+  background-color: #9B5DE5;
+  border-radius: 30px;
+  color: white;
 }
